@@ -635,9 +635,23 @@ body .sticky-wrapper, body .sticky-wrapper.is-sticky {
 
 .navbar-brand > img {
   position: absolute;
+  height: 90%;
   top: 15px; }
   .navbar-brand > img.logo-scroll {
+    width: 60px;
+    padding: 0.6;
+    top: 0;
+    border-radius: 50%;
     opacity: 0; }
+    .navbar-brand > img.logo-default {
+      height: 80px;
+      border-radius: 50%;
+      width: 90px;
+      padding: 0;
+      top: 0;
+
+      /* opacity: 0; */
+     }
 
 .navbar-nav .nav-link {
   text-transform: uppercase;
