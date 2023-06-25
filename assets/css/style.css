@@ -638,6 +638,7 @@ body .sticky-wrapper, body .sticky-wrapper.is-sticky {
   height: 90%;
   top: 15px; }
   .navbar-brand > img.logo-scroll {
+    height: 62px;
     width: 60px;
     padding: 0.6;
     top: 0;
