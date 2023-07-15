@@ -38,7 +38,7 @@ Base csss
 }
 div.tp-caption.slider-title
 {
-  font-family: "Agnecy FB", sans-serif;
+  font-family: "Josefin Slab", sans-serif;
 }
 
 
@@ -1832,6 +1832,7 @@ label.error {
     -webkit-transform: translateY(-4px);
     transform: translateY(-4px); }
 
+    
 /**responsive style**/
 @media (max-width: 991px) {
   .offcanvas-nav-items .nav-link > i.ion-ios-cart {
